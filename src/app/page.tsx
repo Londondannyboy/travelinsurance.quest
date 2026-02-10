@@ -112,6 +112,10 @@ export default function Home() {
               <span className="font-medium text-gray-900 dark:text-white">Motor Insurance</span>
               <span className="block text-sm text-gray-500 dark:text-gray-400">Compare car insurance quotes</span>
             </a>
+            <a href="https://relocation.quest" className="block p-3 rounded-lg bg-white dark:bg-gray-800 hover:shadow-md transition-shadow">
+              <span className="font-medium text-gray-900 dark:text-white">Relocation Advice</span>
+              <span className="block text-sm text-gray-500 dark:text-gray-400">AI-powered relocation planning</span>
+            </a>
           </div>
         </section>
 
